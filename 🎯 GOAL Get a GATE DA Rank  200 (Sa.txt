@@ -1,0 +1,86 @@
+🎯 GOAL: Get a GATE DA Rank < 200 (Safe for IITs like Madras, Bombay, Hyderabad)
+🧠 1. Know the Battlefield: GATE DA Syllabus Breakdown
+Category	Weightage (Approx)
+General Aptitude (GA)	15%
+Engineering Mathematics	30%
+Computer Science Core	25%
+AI/ML/DS Core	30%
+
+📅 2. 6-Month Prep Strategy (July 2025 – January 2026)
+⚙️ Phase 1: Concept Building (July – September)
+✅ Goal: Cover 100% syllabus with 70% confidence
+
+Weekly Strategy
+📚 Watch videos (PW + GitHub/YouTube/NPTEL)
+
+✍️ Make own notes
+
+📝 Solve ~50 MCQs/NATs per topic
+
+Week	Topics
+W1–2	Linear Algebra, Probability
+W3	Calculus + Python Basics
+W4	Data Structures (Arrays, Linked Lists, Stacks)
+W5–6	DBMS + Indexing + SQL
+W7	Programming & Algorithms (Recursion, Greedy, DP)
+W8	Machine Learning (Linear Regression, SVM, KNN)
+W9	Deep Learning (Perceptron, CNN, RNN)
+W10	Practice Aptitude + Revise Linear Algebra
+W11	Probability Distributions + Bayes Theorem
+W12	Mini Revision + Topic-Wise Quizzes
+
+📌 Resources:
+
+GitHub DS-AI-GATE
+
+GKP Book (for questions)
+
+PW videos (deep dives)
+
+⚔️ Phase 2: Intensive Practice + Mock Battles (October – December)
+✅ Goal: Increase accuracy and speed
+
+Focus	Action
+🔁 Revise Notes	Do 1 subject revision per week
+📊 Mock Tests	2 mocks per week (PW or MadeEasy)
+📘 PYQs	Solve past 5 years GATE CSE + DA questions
+📉 Analyze	Track mistakes, maintain error notebook
+❗ Revisions	Add formula sheets + flashcards
+
+🏁 Phase 3: Final Battle Mode (January 2026)
+✅ Goal: 85%+ Accuracy in GATE Pattern Mocks
+
+Action	Plan
+⏰ Full Mocks	3 per week under exam conditions
+📚 Flash Revise	Revise notes every day
+🧠 GA Focus	Practice aptitude daily
+🔍 Weak Area	Focus only on your error notebook topics
+
+📚 Materials Summary
+Subject	Source
+Linear Algebra	Gilbert Strang + GitHub
+Probability	Blitzstein (stat110) + GitHub
+DSA + Algo	Karumanchi book + PW
+ML/AI	Tom Mitchell + GitHub + NPTEL Arun Rajkumar
+DL	Ian Goodfellow (optional) + YouTube
+Aptitude	GKP + PW topic quizzes
+
+⏱️ Daily Study Routine (July–Oct)
+3 hours – Video lectures + notes
+
+1 hour – PYQs/MCQ practice
+
+30 mins – Short notes & revision
+
+1 hour – Coding or math problem-solving
+
+Total = 5.5 hours/day (flexible based on your energy)
+
+🔥 Bonus IIT Boost Tips
+Score above 65–70/100 for a safe IIT shortlist (varies by year).
+
+Apply early – IIT Madras, Bombay, Delhi open first.
+
+Have a portfolio/project/GitHub to showcase during interviews (optional but helpful).
+
+Use Reddit (r/GATEtard) and Telegram groups for real-time updates.
